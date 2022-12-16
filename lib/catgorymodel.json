@@ -1,0 +1,45 @@
+{
+    "categories":[
+        {
+            "name":"Women Dress",
+            "subcategory":[
+                "Wedding & Event",
+                "Tops & Sets",
+                "Men Dress"
+
+            ]
+        },
+        {
+            "name":"Men Clothing & Fashion",
+            "subcategory":["Outwear & Jackets","Formal Dress","Night Dress"]
+        },
+        {
+            "name":"Mens Pant",
+            "subcategory":["pants","Night Dress","kids collection"]
+        },
+        {
+            "name":"Pant",
+            "subcategory":["pants","Night Dress","longtop"]
+        },
+        {
+            "name":"Baby Collection",
+            "subcategory":["pants","Night Dress","kids collection"]
+        },
+        {
+            "name":"Grils Dress",
+            "subcategory":["pants","Night Dress","longtop"]
+        },
+        {
+            "name":"LongTop",
+            "subcategory":["pink","red","black"]
+        },
+        {
+            "name":"ShirtTop",
+            "subcategory":["black","pink","red"]
+        },
+        {
+            "name":"NightDress",
+            "subcategory":["black","Green","blue"]
+        }
+    ]
+}
